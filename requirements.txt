@@ -1,0 +1,7 @@
+torch>=2.1
+transformers>=4.56
+safetensors>=0.4
+Pillow>=9.0
+numpy>=1.23
+# optional: only to load the model by Hugging Face repository id
+huggingface_hub>=0.23
